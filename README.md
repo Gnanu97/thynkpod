@@ -1,4 +1,4 @@
-# 🤖 Thinkpod
+# 🤖 Thynkpod
 
 Thinkpod is a multi-feature Flutter application designed to integrate smart device interaction, audio recording, intelligent processing, personal tracking, and productivity tools into one unified platform.
 
@@ -8,7 +8,7 @@ Built using Flutter, Thinkpod runs on Android, iOS, Web, Windows, macOS, and Lin
 
 ## 🚀 Overview
 
-Thinkpod combines:
+Thynkpod combines:
 
 • BLE device connectivity  
 • Audio recording & playback  
